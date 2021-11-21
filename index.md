@@ -1,10 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Blimp1000/Palace/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Palace
+## Palace
 
 Palace, probably should have been called the playground, because thats essentially what this site, and project is. I just wanna learn, and if i can make something that helps people in the process, that would be awesome.
 
