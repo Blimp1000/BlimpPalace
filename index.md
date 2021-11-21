@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/Blimp1000/Palace/edit/gh-p
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Palace
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Palace, probably should have been called the playground, because thats essentially what this site, and project is. I just wanna learn, and if i can make something that helps people in the process, that would be awesome.
 
 ```markdown
 Syntax highlighted code block
