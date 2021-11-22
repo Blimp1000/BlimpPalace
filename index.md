@@ -6,8 +6,7 @@ Palace, probably should have been called the playground, because thats essential
 
 The Octogon, is a simple planter, for 4 plants. The design, is small and desktoppable. There are four quadrants, for water, so its basically self watering. At least for awhile. 
 
-![](test1.png | width=100)
-<img src="test.png" width="200">
+<img src="https://cdn3.iconfinder.com/data/icons/feather-5/24/octagon-512.png" width="200">
 
 [Thingiverse](https://www.thingiverse.com)
 
