@@ -8,6 +8,7 @@ The Octogon, is a simple planter, for 4 plants. The design, is small and desktop
 
 [Thingiverse](https://www.thingiverse.com)
 ---
+!(test.jpg)
 
 ### Plannning for the following week
 
