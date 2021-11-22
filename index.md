@@ -14,8 +14,8 @@ The Octogon, is a simple planter, for 4 plants. The design, is small and desktop
 
 This week i would like to work on and do:
 
--[] Read my new book
--[] Follow the T.O.P program
--[] Work on LetsBuild(Hopefully it goes well)
--[] Find ideas for new project i can work on.
--[] Research the most important subjects, in our century.
+- [ ] Read my new book
+- [ ] Follow the T.O.P program
+- [ ] Work on LetsBuild(Hopefully it goes well)
+- [ ] Find ideas for new project i can work on.
+- [ ] Research the most important subjects, in our century.
