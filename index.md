@@ -53,3 +53,9 @@ Hvad skal jeg bruge for at kunne lave LetsBuild.
 
 
 ![](Nysag.png)
+
+Arbejdsdag, overstået.
+
+23/11/2021
+
+---
