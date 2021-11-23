@@ -43,9 +43,10 @@ These books, are not ones i have read, but some i would like to and intend to re
 ### Guide til LetsBuild
 Hvad skal jeg bruge for at kunne lave LetsBuild.
 
-- Fredagsarket
+- Dropbox(Kan bruges i browseren)
+- Fredagsarket(I Indbakke og på skrivebordet)
 - Seneste projektbeskrivelse
-- Sagsark(Kan findes i mail og på desktop)
+- Sagsark(Kan findes i mail og på skrivebordet)
 - Reference sag(534?)
 
 ### Hvordan opretter jeg en ny sag
