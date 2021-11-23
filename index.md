@@ -38,3 +38,15 @@ These books, are not ones i have read, but some i would like to and intend to re
 22/11/2021
 
 ---
+
+
+### Guide til LetsBuild
+Hvad skal jeg bruge for at kunne lave LetsBuild.
+
+- Fredagsarket
+- Seneste projektbeskrivelse
+- Sagsark(Kan findes i mail og på desktop)
+- Reference sag(534?)
+
+Hvordan opretter jeg en ny sag
+![](Nysag.png)
