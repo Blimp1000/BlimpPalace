@@ -1,6 +1,6 @@
 .Main{
-    padding: 20em;
-    font-size: 2rem;
+    padding: 2vw;
+    font-size: 4rem;
     color: rgb(255,127,80);    
     font-family: sans-serif;
     font-weight: bold;
@@ -13,4 +13,13 @@
     font-family: sans-serif;
     font-weight: bold;
     background-color: rgb(250, 250, 250);
+}
+
+h1{
+    font-size: 1rem;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: rgb(250, 250, 250);
+
 }
